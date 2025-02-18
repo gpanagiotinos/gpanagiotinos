@@ -10,4 +10,4 @@ A highly motivated and hardworking individual, with around 6 years of experience
  * [🌍 webpage](https://code.panagiotinos.com/)
 
 ## AWS Certified Cloud Practitioner 🏅 
-[![AWS Badge](./cloud-practitioner-badge)](https://www.credly.com/users/georgios-panagiotinos)
+[![AWS Badge](./aws-certified-cloud-practitioner.png)](https://www.credly.com/users/georgios-panagiotinos)
